@@ -2,7 +2,7 @@
 An application that detects colours in an image, and gives the weightage of 'N' colours selected from that image.
 KMeans Clustering is used to segreate the colours.
 
-**Python Version Used: 3.7.0**
+**Python version used is: 3.7.0**
 
 ### Packages used:
 - [Scikit-Learn](https://scikit-learn.org/stable/) 
